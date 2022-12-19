@@ -1,0 +1,21 @@
+// TextDecoration
+$text-decoration:none;
+a{
+    text-decoration: $text-decoration;
+}
+body{
+    height:100vh;
+    $background-color:white !default;
+    $background-color:black !default;
+    $background-color:rgb(145, 123, 242) !default;
+    background-color:$background-color;
+}
+// Text color 
+$text-color:black !default;
+$text-color:white !default;
+$text-color:rgb(53, 70, 147) !default;
+
+*{
+    margin:0;
+    padding:0;
+}
